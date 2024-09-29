@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "sim-tp-6"
+name = "simulation"
 version = "0.1.0"
 description = "Simulations Assignment"
 authors = ["Tomas Sanchez <tosanchez@frba.utn.edu.ar>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "sim_tp_6"}]
+packages = [{include = "simulation", from="src"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
