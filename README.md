@@ -1,7 +1,10 @@
 # Software Engineers optimization by Issue priority
 
-## Link
-[Collab Development](https://github.com/JuanCruzCaggiano/Simulacion-TP6/blob/main/notebooks/simulation.ipynb)
+## Notebook Links
+
+- [Simulation Development](https://github.com/JuanCruzCaggiano/Simulacion-TP6/blob/main/notebooks/simulation.ipynb)
+- [Fitting](https://github.com/JuanCruzCaggiano/Simulacion-TP6/blob/main/notebooks/fit.ipynb)
+- [Results Analysis](https://github.com/JuanCruzCaggiano/Simulacion-TP6/blob/main/notebooks/results.ipynb)
 
 ## Setting Up environment
 
