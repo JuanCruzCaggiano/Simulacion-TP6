@@ -1,4 +1,7 @@
-# Simulacion-TP6-
+# Software Engineers optimization by Issue priority
+
+## Link
+[Collab Development](https://github.com/JuanCruzCaggiano/Simulacion-TP6/blob/main/notebooks/simulation.ipynb)
 
 ## Setting Up environment
 
